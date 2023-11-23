@@ -1,0 +1,16 @@
+extract_text_from_pdf:
+  - pdf
+extract_text_from_ppt:
+  - ppt
+  - pptx
+extract_text_from_doc:
+  - doc
+  - docx
+extract_text_from_text:
+  - py
+  - txt
+  - md
+  - js
+  - conf
+  - yml
+  - yaml
